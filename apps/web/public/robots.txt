@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://xontrix.vercel.app/sitemap.xml
